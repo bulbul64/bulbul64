@@ -47,22 +47,4 @@ Passionate about writing **clean code** and creating **responsive designs**.
   <a href="https://yourportfolio.com"><img class="connect" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
 </div>
 
-<style>
-.connect {
-  transition: all 0.3s ease-in-out;
-}
-.connect:hover {
-  transform: scale(1.1);
-  filter: drop-shadow(0 0 8px #FF00FF);
-}
 
-/* Optional small floating icon animation */
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-5px); }
-  100% { transform: translateY(0px); }
-}
-.skill, .connect {
-  animation: float 3s ease-in-out infinite;
-}
-</style>
