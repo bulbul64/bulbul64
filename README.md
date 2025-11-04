@@ -1,6 +1,6 @@
 # Hi, I’m Shafiullah Bulbul 👋
 
-![Animated Banner](https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif)
+![Profile Banner](https://github.com/bulbul64/bulbul64/blob/main/Github.png?raw=true)
 
 ---
 
