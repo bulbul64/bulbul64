@@ -20,31 +20,7 @@ Passionate about writing **clean code** and creating **responsive designs**.
   <a href="#"><img class="skill" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /></a>
 </div>
 
-<style>
-.skill {
-  transition: all 0.3s ease-in-out;
-  animation: float 3s ease-in-out infinite;
-}
-.skill:hover {
-  transform: scale(1.2) rotate(-2deg);
-  filter: drop-shadow(0 0 6px #00FFFF);
-}
 
-.connect {
-  transition: all 0.3s ease-in-out;
-  animation: float 3s ease-in-out infinite;
-}
-.connect:hover {
-  transform: scale(1.1);
-  filter: drop-shadow(0 0 8px #FF00FF);
-}
-
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-5px); }
-  100% { transform: translateY(0px); }
-}
-</style>
 
 ---
 
