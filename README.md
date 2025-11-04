@@ -23,20 +23,31 @@ Passionate about writing **clean code** and creating **responsive designs**.
 <style>
 .skill {
   transition: all 0.3s ease-in-out;
+  animation: float 3s ease-in-out infinite;
 }
 .skill:hover {
   transform: scale(1.2) rotate(-2deg);
-  filter: drop-shadow(0 0 6px #00FFFF);
+  filter: drop-shadow(0 0 6px #00FFFF) brightness(1.2);
+}
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-5px); }
+  100% { transform: translateY(0px); }
 }
 </style>
 
 ---
 
 ## 📊 GitHub Stats
-<div style="display: flex; flex-wrap: wrap; gap: 16px; background: #1e1e1e; padding: 12px; border-radius: 12px;">
+<div style="display: flex; flex-wrap: wrap; gap: 16px; background: #1e1e1e; padding: 16px; border-radius: 16px;">
   <img src="https://github-readme-stats.vercel.app/api?username=bulbul64&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="border-radius:12px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulbul64&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="border-radius:12px;" />
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+![Bulbul's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bulbul64&theme=darkhub&row=1&column=7)
 
 ---
 
@@ -47,4 +58,13 @@ Passionate about writing **clean code** and creating **responsive designs**.
   <a href="https://yourportfolio.com"><img class="connect" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
 </div>
 
-
+<style>
+.connect {
+  transition: all 0.3s ease-in-out;
+  animation: float 3s ease-in-out infinite;
+}
+.connect:hover {
+  transform: scale(1.1);
+  filter: drop-shadow(0 0 8px #FF00FF);
+}
+</style>
