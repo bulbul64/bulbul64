@@ -1,10 +1,19 @@
-# Hi, I’m Shafiullah Bulbul 👋  
+<!-- 🌟 PROFESSIONAL GITHUB PROFILE README 🌟 -->
+# <div align="center">Hi, I’m <span style="color:#00FFFF;">Shafiullah Bulbul</span> 👋</div>  
 
-![Profile Banner](https://github.com/bulbul64/bulbul64/blob/main/Github.png?raw=true)
+<p align="center">
+  <img src="https://github.com/bulbul64/bulbul64/blob/main/Github.png?raw=true" alt="Profile Banner" width="100%">
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Frontend+Enthusiast;Passionate+Coder;Lifelong+Learner)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Frontend+Enthusiast;Passionate+Coder;Lifelong+Learner" alt="Typing Animation">
+</p>
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 ## 🌱 About Me  
 I’m a **Web Developer & Tech Enthusiast**, learning **Full Stack Development** and modern frontend frameworks.  
@@ -12,21 +21,37 @@ I love writing **clean, efficient code** and building **responsive user experien
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
 ## 🛠 Skills  
 <p align="center">
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=spin)  
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=spin)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=spin)  
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&animation=spin)  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&animation=spin)  
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&animation=spin)
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
+
+---
+
+## 🧰 Tech Stack Tools  
+**Frontend:** React, TailwindCSS, Bootstrap, JavaScript  
+**Backend:** Node.js, Express.js (learning phase)  
+**Database:** MongoDB (learning phase)  
+**Design Tools:** Figma, Canva  
+**Version Control:** Git & GitHub  
+**Editor:** Visual Studio Code  
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bulbul64&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=bulbul64&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies">
 </p>
 
 ---
@@ -57,13 +82,14 @@ I love writing **clean, efficient code** and building **responsive user experien
 
 ## 📫 Connect with Me  
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiulla-bulbul/)  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://personal-portfolio-wc76.vercel.app/)
+  <a href="https://www.linkedin.com/in/shafiulla-bulbul/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://personal-portfolio-wc76.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black"></a>
 </p>
 
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   <h3>⭐ "Code. Create. Learn. Repeat." ⭐</h3>
   <p>💙 Thanks for visiting my profile 💙</p>
 </div>
