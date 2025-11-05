@@ -23,29 +23,29 @@ I love writing **clean, efficient code** and building **responsive user experien
 ---
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=bulbul64&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=bulbul64&theme=onestar&no-frame=true&no-bg=true&row=1&column=7)
 
 ---
 
 ## 📊 GitHub Stats  
-![Bulbul’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=bulbul64&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bulbul64&layout=compact&theme=radical)
+![Bulbul’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=bulbul64&show_icons=true&theme=react&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bulbul64&layout=compact&theme=react&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117)
 
 ---
 
 ## 🔥 Contribution Graph  
-[![Bulbul’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bulbul64&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bulbul’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bulbul64&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 👁 Visitor Counter  
-![Profile Views](https://komarev.com/ghpvc/?username=bulbul64&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=bulbul64&label=PROFILE+VIEWS&style=for-the-badge&color=00FFFF)
 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/shafiulla-bulbul/)
-[![Portfolio](https://personal-portfolio-wc76.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiulla-bulbul/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://personal-portfolio-wc76.vercel.app/)
 
 ---
 
