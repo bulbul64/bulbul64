@@ -19,6 +19,20 @@ I love writing **clean, efficient code** and building **responsive user experien
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🧰 Tech Stack Tools  
+**Frontend:** React, TailwindCSS, Bootstrap, JavaScript  
+**Backend:** Node.js, Express.js (learning phase)  
+**Database:** MongoDB (learning phase)  
+**Design Tools:** Figma, Canva  
+**Version Control:** Git & GitHub  
+**Editor:** Visual Studio Code  
 
 ---
 
