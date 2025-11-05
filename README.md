@@ -6,11 +6,19 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
 ## 🌱 About Me  
 I’m a **Web Developer & Tech Enthusiast**, learning **Full Stack Development** and modern frontend frameworks.  
 I love writing **clean, efficient code** and building **responsive user experiences**.
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 ## 🛠 Skills  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,6 +34,10 @@ I love writing **clean, efficient code** and building **responsive user experien
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
 ## 🧰 Tech Stack Tools  
 **Frontend:** React, TailwindCSS, Bootstrap, JavaScript  
 **Backend:** Node.js, Express.js (learning phase)  
@@ -36,10 +48,18 @@ I love writing **clean, efficient code** and building **responsive user experien
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
 ## 🏆 GitHub Trophies  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=bulbul64&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 ## 📊 GitHub Stats  
 ![Bulbul’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=bulbul64&show_icons=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117)  
@@ -47,15 +67,27 @@ I love writing **clean, efficient code** and building **responsive user experien
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
 ## 🔥 Contribution Graph  
 [![Bulbul’s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bulbul64&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
 ## 👁 Visitor Counter  
 ![Profile Views](https://komarev.com/ghpvc/?username=bulbul64&label=PROFILE+VIEWS&style=for-the-badge&color=00FFFF)
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shafiulla-bulbul/)  
