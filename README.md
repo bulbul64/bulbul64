@@ -23,13 +23,13 @@ I love writing **clean, efficient code** and building **responsive user experien
 ---
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=bulbul64&theme=onestar&no-frame=true&no-bg=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=bulbul64&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
 
 ---
 
 ## 📊 GitHub Stats  
-![Bulbul’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=bulbul64&show_icons=true&theme=react&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bulbul64&layout=compact&theme=react&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117)
+![Bulbul’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=bulbul64&show_icons=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bulbul64&layout=compact&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117)
 
 ---
 
