@@ -44,9 +44,8 @@ I love writing **clean, efficient code** and building **responsive user experien
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://www.linkedin.com/in/shafiulla-bulbul/)
+[![Portfolio](https://personal-portfolio-wc76.vercel.app/)
 
 ---
 
