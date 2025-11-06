@@ -2,7 +2,7 @@
 # <div align="center">Hi, I’m <span style="color:#00FFFF;">Shafiullah Bulbul</span> 👋</div>  
 
 <p align="center">
-  <img src="https://github.com/bulbul64/bulbul64/blob/main/Github.png?raw=true" alt="Profile Banner" width="100%">
+  <img src="[https://github.com/bulbul64/bulbul64/blob/main/Github.png?raw=true" alt="Profile Banner" width="100%](https://github.com/bulbul64/bulbul64/blob/main/Github.png?raw=true)">
 </p>
 
 <p align="center">
