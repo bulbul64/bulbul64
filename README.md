@@ -3,7 +3,7 @@
 # <div align="center">Hi, I’m <span style="color:#00FFFF;">Shafiullah Bulbul</span> 👋</div>  
 
 <p align="center">
-  <img src="https://github.com/bulbul64/bulbul64/blob/main/Github.png?raw=true" alt="Profile Banner" width="100%">
+  <img src="https://github.com/bulbul64/bulbul64/blob/main/Black%20and%20Gray%20Minimalist%20Shapes%20Personal%20Profile%20LinkedIn%20Banner.jpg" alt="Profile Banner" width="100%">
 </p>
 
 <p align="center">
