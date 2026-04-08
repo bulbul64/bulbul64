@@ -1,4 +1,5 @@
 <!-- 🌟 PROFESSIONAL GITHUB PROFILE README 🌟 -->
+
 # <div align="center">Hi, I’m <span style="color:#00FFFF;">Shafiullah Bulbul</span> 👋</div>  
 
 <p align="center">
@@ -6,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Full+Stack+Learner;React+Enthusiast;Passionate+Coder" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Full+Stack+Learner;React+Enthusiast;Passionate+Coder">
 </p>
 
 ---
@@ -19,11 +20,11 @@
 
 ## 🌱 About Me  
 I’m a **Frontend Developer (Learning Phase)** and an aspiring **Full Stack Developer**.  
-Currently, I’m focused on building strong fundamentals and improving my coding skills through regular practice.
+Currently, I’m focused on improving my skills through consistent practice and real-world projects.
 
-- 🔭 I’m currently practicing by building a **Book Website project**  
-- 🌱 I’m learning **React and modern frontend development**  
-- ⚡ Improving my skills in **JavaScript, Tailwind CSS, and responsive design**  
+- 🔭 I’m currently building a **Book Website (practice project)**  
+- 🌱 Learning **React and modern frontend development**  
+- ⚡ Practicing **JavaScript, Tailwind CSS & responsive design**  
 - 🎯 Goal: Become a **Professional Developer**  
 
 ---
@@ -50,29 +51,43 @@ Currently, I’m focused on building strong fundamentals and improving my coding
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bulbul64&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=bulbul64&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bulbul64&show_icons=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulbul64&layout=compact&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=bulbul64&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulbul64&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bulbul64&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Profile Summary  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bulbul64&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bulbul64&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bulbul64&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 👁 Visitor Counter  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bulbul64&label=PROFILE+VIEWS&style=for-the-badge&color=00FFFF" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=bulbul64&label=PROFILE+VIEWS&style=for-the-badge&color=00FFFF" />
 </p>
 
 ---
