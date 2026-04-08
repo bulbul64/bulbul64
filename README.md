@@ -83,7 +83,7 @@ I love writing **clean, efficient code** and building **responsive user experien
 ## 📫 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/shafiulla-bulbul/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://personal-portfolio-wc76.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black"></a>
+  <a href="https://personal-portfolio-website-ten-liard.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=black"></a>
 </p>
 
 ---
