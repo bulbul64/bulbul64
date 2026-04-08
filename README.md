@@ -51,15 +51,15 @@ Currently, I’m focused on improving my skills through consistent practice and 
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bulbul64&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bulbul64&theme=onedark&no-frame=true&no-bg=true" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bulbul64&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulbul64&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bulbul64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulbul64&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
